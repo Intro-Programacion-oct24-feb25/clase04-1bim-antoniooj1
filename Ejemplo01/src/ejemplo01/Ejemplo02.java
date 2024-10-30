@@ -14,8 +14,12 @@ public class Ejemplo02 {
         // Ejemplo 
         String nombreEstudiante = "René Rolando";
         String apellidoEstudiante = "Elizalde Solano";
+          // Una vez declarada la variable no se puede reagsignar el tipo de variable
+        String espacio = " ";
                 
         System.out.println(nombreEstudiante+apellidoEstudiante);
+          //concatenar 
         System.out.println(nombreEstudiante+" "+apellidoEstudiante);
+        System.out.println(nombreEstudiante+espacio+apellidoEstudiante);
     }
 }
