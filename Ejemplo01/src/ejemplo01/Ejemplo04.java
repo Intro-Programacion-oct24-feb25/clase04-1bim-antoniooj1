@@ -18,5 +18,6 @@ public class Ejemplo04 {
         System.out.print(apellidoEstudiante + " ");
         System.out.print(nacimiento + " ");
         System.out.print(nombreEstudiante + " ");
+           //el println sirve para hacer espacios mientras que solo el print sirve para hacer todo horizontal
     }
 }
